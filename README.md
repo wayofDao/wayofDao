@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wayofDao
-- 👀 I’m interested in development with javascript
-- 🌱 I’m currently learning react-native
-- 💞️ I’m looking to collaborate on something
+- 👀 I’m interested in creating things that are fun and useful
+- 🌱 I’m currently learning some game development with c#
+- 💞️ I’m looking to collaborate on javascript projects
 - 📫 How to reach me // TODO
 
 <!---
